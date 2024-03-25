@@ -76,7 +76,7 @@ void Welcome()
 	cout << "\n     ***      ***  **       **  **      **  **      ***      ***  **       ******  ******  **  **    ******  **";
 	cout << "\n     ***     ***   **       **  ******  **   **     ***     ***   **       **      **  **  **   **   **      **";
 	cout << "\n     **********    **       **  ******  **    **    **********    **       ******  ******  **    **  ******  **";
-	cout << "\n\n\n\n\n \t\t\t\t\t\t By Shariq Munir";
+	cout << "\n\n\n\n\n \t\t\t\t\t\t By Abdul Ahad & Shariq Munir";
 	cout << "\n\n\n\n\n\n\n\n\n\n\n \t\t\t\t\t       Press  C to Continue.";
 	bool flag = false;
 	while (true) {
