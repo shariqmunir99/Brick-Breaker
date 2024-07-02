@@ -15,7 +15,7 @@ There's a file named "Brick Breaker.exe". Just run it and the game will start.
 
 If "Brick Breaker.exe" isn't working then the game can be compiled using the following method as well:
 
-The project is compiled using the latest version of Microsoft Visual Studio. So, just install visual studio and open project file. Once the project file just click <b>Local Windows Debugger</b> icon and the game will start.
+The project is compiled using the visual studio 2022. So, just install visual studio and open project file. Once the project file just click <b>Local Windows Debugger</b> icon and the game will start.
 
 
 ## Screenshot
@@ -25,13 +25,13 @@ The project is compiled using the latest version of Microsoft Visual Studio. So,
 About My Game:                      
 -----------------------------
 
-* The game's Interface consists of a mesmerizing menu, a thriving ball and a large number of colored bricks.
+* The game's Interface consists of a mesmerizing menu, a thriving ball, and a large number of colored bricks.
  
 * The goal of the game is to prevent the **ball** from crossing the screen's lower boundary whilst scoring as many points as the player can.
  
-* A Player is provided with 3 lives. Each time the ball misses the paddle on life is deducted and when lives reaches 0, the game ends.
+* A Player is provided with 3 lives. Each time the ball misses the paddle one life is deducted and when lives reaches 0, the game ends.
  
-* When the moving moving ball collides with player's paddle it gets **deflected** in the opposite direction and continues its motion until it collides with another surface.
+* When the moving  ball collides with the player's paddle it gets **deflected** in the opposite direction and continues its motion until it collides with another surface.
 
 * The game also consists of colorful bricks which at first glance do appear to be random but each color signifies the brick's **health**.
    
@@ -43,15 +43,15 @@ About My Game:
 
 * In addition to all these, the game also stores the record of 5 highest scores ever making it much more competitive and entertaining.  
 
-* In order to win the game, the player must break every brick in the game.
+* To win the game, the player must break every brick in the game.
 
-<b>P.S: There is a hidden Easter egg in the game so try find it if U can as well ;).</b>
+<b>P.S: There is a hidden Easter egg in the game so try to find it if U can as well ;).</b>
 
 Enjoy !!!!!!!
 
 <h2>Controls:</h2>
 <li>On the welcome screen press <b>C</b> to continue.</li>
-<li>To access the options available in the main menu press their respective numeral 	     		 key, for instance, to access <b>New Game</b> press <b>1</b> respectively.</li>
+<li>To access the options available in the main menu press their respective numeral key, for instance, to access <b>New Game</b> press <b>1</b> respectively.</li>
 <li> Press <b>A</b> to move the paddle in <b>Leftward</b> direction. </li>
 <li> Press <b>D</b> to move the paddle in <b>Rightward</b> direction. </li>
 <li> Press <b>P</b> to  <b>Pause</b>. </li>
