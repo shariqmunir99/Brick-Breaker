@@ -17,7 +17,7 @@ The project is compiled using the visual studio 2022. So, just install visual st
 
 <img src="https://user-images.githubusercontent.com/114104536/214608103-2b86cc93-a0ec-4e76-b60a-b07409732a07.png" width=700 height=450></img>
 
-About My Game:                      
+About:                      
 -----------------------------
 
 * The game's Interface consists of a mesmerizing menu, a thriving ball, and a large number of colored bricks.
