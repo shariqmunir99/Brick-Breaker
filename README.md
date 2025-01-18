@@ -1,8 +1,3 @@
-
-<p align=center>
- <img src="https://user-images.githubusercontent.com/114104536/214608110-04d07ded-8cd2-4292-b135-2e77865b502b.png" width=700 height = 450/>
-</p>
-
 # Brick Breaker 🎮 
 
 A visually appealing and interactive Brick Breakout Clone made using C++. 
